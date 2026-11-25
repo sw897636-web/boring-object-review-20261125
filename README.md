@@ -1,8 +1,8 @@
 # The Most Boring Object, Reviewed in One Line
 
+[![make.fun](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
 [![rank](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/sw897636-web/boring-object-review-20261125/rank.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
-[![rate](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/sw897636-web/boring-object-review-20261125/rate.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
-[![games](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/sw897636-web/boring-object-review-20261125/games.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
+[![reward](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/sw897636-web/boring-object-review-20261125/reward.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
 
 Entry for the [make.fun bounty "The Most Boring Object, Reviewed in One Line"](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3).
 
