@@ -5,7 +5,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const review =
-  "The doormat says WELCOME in faded letters, has been stepped on ten thousand times, and has never once been thanked — a doormat in every sense.";
+  "4/5. Doormat says WELCOME. Stepped on 11,000+ times since 2021, never once complained. Lost a star for also welcoming the guy who stole my Peloton.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 mkdirSync(outDir, { recursive: true });
